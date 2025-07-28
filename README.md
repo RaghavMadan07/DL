@@ -16,3 +16,4 @@ This repository includes:
 - **Keras (with TensorFlow backend)** – For quick prototyping and clean APIs
 - **Matplotlib / Seaborn** – For plotting and visualizing model performance
 - **NumPy / Pandas** – For data manipulation and preprocessing
+- **SciPy** - For manipulating Mat files
